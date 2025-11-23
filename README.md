@@ -138,11 +138,6 @@ Pipeline includes:
 - Deployment to Kubernetes  
 - Monitoring & alerting integration  
 
-Compatible with:
-
-- GitHub Actions
-- GitLab CI
-- Jenkins
 
 ---
 
