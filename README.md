@@ -165,7 +165,7 @@ Provides a centralized log management layer for the entire platform.
 ---
 
 ## 📁 Project Structure
-
+```
 ecommerce-spring-microservices/
 │
 ├── config-server/
@@ -185,11 +185,11 @@ ecommerce-spring-microservices/
 ├── docker/
 ├── k8s/
 ├── monitoring/
-│ ├── prometheus/
-│ └── grafana/
+│   ├── prometheus/
+│   └── grafana/
 │
 └── README.md
-
+```
 
 ---
 
